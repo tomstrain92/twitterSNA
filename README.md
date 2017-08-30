@@ -7,11 +7,11 @@ Just run python twitterSNA from the commandline and a map will be saved in /maps
 
 ### Prerequisites
 
-*folium
-*tweepy
-*geopy
+* folium
+* tweepy
+* geopy
 
 ### Example
-'''
+
 python twitterSNA.py username
-'''
+
